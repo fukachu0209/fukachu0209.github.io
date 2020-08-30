@@ -1,10 +1,9 @@
 {
 "companyName": "fukachu0209",
 "productName": "JankenShooting",
-"dataUrl": "JankenShootingWEB.data.unityweb",
-"asmCodeUrl": "JankenShootingWEB.asm.code.unityweb",
-"asmMemoryUrl": "JankenShootingWEB.asm.memory.unityweb",
-"asmFrameworkUrl": "JankenShootingWEB.asm.framework.unityweb",
+"dataUrl": "ドキュメント.data.unityweb",
+"wasmCodeUrl": "ドキュメント.wasm.code.unityweb",
+"wasmFrameworkUrl": "ドキュメント.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
